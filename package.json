@@ -1,0 +1,11 @@
+{
+  "name": "fizzbuzz-types",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Josef",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
